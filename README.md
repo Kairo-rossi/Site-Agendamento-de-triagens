@@ -24,6 +24,10 @@ O projeto será construído com foco em agilidade e escalabilidade, utilizando a
 
 **Front-end**: HTML5, CSS3, JavaScript
 
+**O que Aprendi:**
+
+A iniciar..
+
 **Como Contribuir**
 Este projeto é um esforço inicial. Se você tem interesse em contribuir, melhorar alguma funcionalidade ou apenas dar um feedback, sinta-se à vontade para:
 
